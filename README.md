@@ -373,7 +373,7 @@ $(".foo div#bar:eq(0)")
 	* *I have not used them much other to try them out. If I worked with a team that used them, I would have no problem with doing so.*
 
 * How would you implement a web design comp that uses non-standard fonts? 
-	* *I would use webfonts via `@font-face`. I would be very relectant to use any other technique for any significant amount of text.*
+	* *I would use webfonts via `@font-face`. I would be very reluctant to use any other technique for any significant amount of text.*
 
 * Explain how a browser determines what elements match a CSS selector?  
 	* *Browsers read CSS from right to left. The less rules the browser has to evaluate, the faster the styling engine will perform.*
